@@ -10,7 +10,7 @@ This project allows you to play the popular Chrome Dinosaur Game using hand gest
 
 ## Demo
 
-[Insert a link to a demo video or GIF here]
+[https://www.linkedin.com/posts/rekam-govardhana-278ba6255_coordination-python-opencv-activity-7158790922988642304-01Ae?utm_source=share&utm_medium=member_android]
 
 ## Technologies Used
 
