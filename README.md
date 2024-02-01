@@ -23,4 +23,4 @@ This project allows you to play the popular Chrome Dinosaur Game using hand gest
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/RGN-1234567890/DINO.git
